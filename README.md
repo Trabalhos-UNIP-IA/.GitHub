@@ -1,172 +1,153 @@
-🤖 Trabalhos UNIP — Inteligência Artificial
-Bem-vindo à organização oficial dos projetos acadêmicos da disciplina de Inteligência Artificial da UNIP.
-Este espaço reúne implementações práticas, experimentos e aplicações desenvolvidas ao longo da graduação, utilizando conceitos de IA, visão computacional, algoritmos de busca e desenvolvimento em Python.
+# 🤖 Trabalhos UNIP — Inteligência Artificial
 
-🎯 Objetivo da Organização
-Centralizar, documentar e versionar projetos acadêmicos relacionados a:
+Bem-vindo à organização oficial dos projetos acadêmicos da disciplina de **Inteligência Artificial da UNIP**.
 
+Aqui reunimos projetos, experimentos e aplicações desenvolvidas durante a graduação, envolvendo algoritmos de IA, visão computacional, sistemas especialistas e resolução de problemas computacionais.
 
-Inteligência Artificial
+---
 
+# 🎯 Objetivo
 
-Machine Learning
+Centralizar, organizar e versionar projetos acadêmicos relacionados a:
 
+- Inteligência Artificial
+- Machine Learning
+- Algoritmos de Busca
+- Sistemas Especialistas
+- Visão Computacional
+- Estruturas de Dados
+- Computação Aplicada
 
-Visão Computacional
+---
 
+# 🧠 Projetos da Organização
 
-Algoritmos de Busca
+Atualmente a organização possui projetos como:
 
+## 🔎 Algoritmos de Busca
 
-Estruturas de Dados
+Implementações acadêmicas de algoritmos clássicos:
 
+- BFS (Breadth-First Search)
+- DFS (Depth-First Search)
+- A*
+- IDA*
+- RBFS
 
-Automação e Sistemas Inteligentes
+---
 
+## 🧩 Desafio-Labirinto
 
-Computação Aplicada
+Projeto voltado para resolução de labirintos utilizando algoritmos de busca e tomada de decisão.
 
+### Recursos:
+- Exploração de caminhos
+- Busca inteligente
+- Comparação de desempenho entre algoritmos
+- Simulação gráfica
 
+---
 
-🧠 Projetos Desenvolvidos
-Entre os projetos presentes nesta organização estão:
+## 🌱 IA_J903_Agro_Comparacao_Astar_IDAstar_RBFS
 
+Projeto acadêmico focado na comparação entre algoritmos de busca aplicados em cenários agrícolas e tomada de decisão.
 
-🔎 Implementação de algoritmos:
+### Algoritmos utilizados:
+- A*
+- IDA*
+- RBFS
 
+### Objetivo:
+Comparar eficiência, custo computacional e desempenho dos algoritmos.
 
-BFS (Breadth-First Search)
+---
 
+## 🏥 Sistema-Especialista---triagem-de-paciente
 
-DFS (Depth-First Search)
+Sistema especialista desenvolvido para simular triagem inteligente de pacientes.
 
+### Funcionalidades:
+- Análise de sintomas
+- Classificação de prioridade
+- Apoio à tomada de decisão
+- Simulação de atendimento hospitalar
 
+---
 
+## ✍️ Identificador_maiuscula_minuscula
 
-🖍️ Reconhecimento de caracteres manuscritos
+Projeto de visão computacional e Machine Learning para reconhecimento de caracteres manuscritos.
 
+### Funcionalidades:
+- Identificação de letras desenhadas pelo usuário
+- Reconhecimento de números e caracteres
+- Diferenciação entre letras maiúsculas e minúsculas
+- Predição utilizando modelos treinados com EMNIST
+- Interface gráfica interativa
 
-Identificação de letras e números desenhados
+### Tecnologias:
+- OpenCV
+- NumPy
+- Scikit-Learn
+- Flask
+- Python
 
+---
 
-Diferenciação entre letras maiúsculas e minúsculas
+# 🛠️ Tecnologias Utilizadas
 
+Os projetos da organização utilizam principalmente:
 
-Utilização de modelos treinados com datasets como EMNIST
+- 🐍 Python
+- 🌿 Git
+- 💻 GitHub
+- 📦 OpenCV
+- 🔢 NumPy
+- 🧠 Scikit-Learn
+- 🌐 Flask
+- 🎮 Pygame
+- 📊 Matplotlib
 
+---
 
+# 📚 Instituição
 
+## Universidade Paulista — UNIP
 
-🤖 Aplicações de Inteligência Artificial
+**Disciplina:** Inteligência Artificial
 
+---
 
-Classificação de imagens
+# 👥 Integrantes
 
+- Ariane Veras
+- Sydhiney Silva
+- Eduardo Theodoro
 
-Processamento de dados
+---
 
+# 🚀 Objetivo Acadêmico
 
-Predições utilizando modelos treinados
+Os projetos possuem finalidade:
 
+- 🎓 Educacional
+- 📖 Acadêmica
+- 🧪 Experimental
 
+Buscando aplicar na prática conceitos estudados em Inteligência Artificial, algoritmos de busca, visão computacional e desenvolvimento de sistemas inteligentes.
 
+---
 
-🎮 Simulações e jogos com IA
+# ⭐ Explore os Repositórios
 
+Sinta-se à vontade para explorar os projetos, acompanhar a evolução dos trabalhos e utilizar os códigos como referência de estudo.
 
-📊 Experimentos acadêmicos e testes computacionais
+---
 
+# 🔗 Organização GitHub
 
-
-🛠️ Tecnologias Utilizadas
-As principais tecnologias utilizadas nos projetos incluem:
-
-
-🐍 Python
-
-
-🌿 Git
-
-
-💻 GitHub
-
-
-📦 OpenCV
-
-
-🧠 Scikit-Learn
-
-
-🔢 NumPy
-
-
-🎮 Pygame
-
-
-🌐 Flask
-
-
-📊 Matplotlib
-
-
-
-🚀 Organização dos Repositórios
-Cada repositório contém:
-
-
-Código-fonte do projeto
-
-
-Documentação
-
-
-Exemplos de uso
-
-
-Modelos treinados (quando aplicável)
-
-
-Experimentos e testes
-
-
-
-📚 Instituição
-Universidade Paulista — UNIP
-Disciplina: Inteligência Artificial
-
-👥 Integrantes
-
-
-Ariane Veras
-
-
-Sydhiney Silva
-
-
-Eduardo Theodoro
-
-
-
-📌 Finalidade
-Todos os projetos desta organização possuem finalidade:
-
-
-🎓 Educacional
-
-
-📖 Acadêmica
-
-
-🧪 Experimental
-
-
-O objetivo é aplicar na prática os conceitos estudados durante a disciplina, promovendo aprendizado em desenvolvimento, versionamento e Inteligência Artificial.
-
-⭐ Explore os Projetos
-Sinta-se à vontade para explorar os repositórios, acompanhar a evolução dos projetos e utilizar os códigos como referência de estudo.
-
-🔗 Organização GitHub
-Adicione aqui o link da organização:
 https://github.com/Trabalhos-UNIP-IA
 
-🧩 “Aprender IA é transformar lógica em soluções inteligentes.”
+---
+
+# 🧩 “Aprender IA é transformar lógica em soluções inteligentes.”
