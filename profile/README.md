@@ -1,62 +1,153 @@
-# 🤖 Trabalhos UNIP - Inteligência Artificial
+# 🤖 Trabalhos UNIP — Inteligência Artificial
 
-Bem-vindo à organização dedicada aos **projetos e trabalhos acadêmicos da disciplina de Inteligência Artificial da UNIP**.
+Bem-vindo à organização oficial dos projetos acadêmicos da disciplina de **Inteligência Artificial da UNIP**.
 
-Aqui são armazenadas implementações práticas de algoritmos estudados em aula, utilizando principalmente **Python**, **Git** e **GitHub**.
+Aqui reunimos projetos, experimentos e aplicações desenvolvidas durante a graduação, envolvendo algoritmos de IA, visão computacional, sistemas especialistas e resolução de problemas computacionais.
 
 ---
 
-## 🎯 Objetivo
+# 🎯 Objetivo
 
-Centralizar e versionar projetos acadêmicos relacionados a:
+Centralizar, organizar e versionar projetos acadêmicos relacionados a:
 
 - Inteligência Artificial
-- Algoritmos de busca
-- Estruturas de dados
-- Computação aplicada
+- Machine Learning
+- Algoritmos de Busca
+- Sistemas Especialistas
+- Visão Computacional
+- Estruturas de Dados
+- Computação Aplicada
 
 ---
 
-## 🧠 Algoritmos implementados
+# 🧠 Projetos da Organização
 
-Entre os projetos presentes nesta organização estão implementações de:
+Atualmente a organização possui projetos como:
 
-- 🔎 **BFS (Breadth-First Search)**
-- 🌲 **DFS (Depth-First Search)**
-- 🎮 Simulações e jogos utilizando IA
-- 📊 Experimentos acadêmicos
+## 🔎 Algoritmos de Busca
+
+Implementações acadêmicas de algoritmos clássicos:
+
+- BFS (Breadth-First Search)
+- DFS (Depth-First Search)
+- A*
+- IDA*
+- RBFS
 
 ---
 
-## 🛠 Tecnologias utilizadas
+## 🧩 Desafio-Labirinto
+
+Projeto voltado para resolução de labirintos utilizando algoritmos de busca e tomada de decisão.
+
+### Recursos:
+- Exploração de caminhos
+- Busca inteligente
+- Comparação de desempenho entre algoritmos
+- Simulação gráfica
+
+---
+
+## 🌱 IA_J903_Agro_Comparacao_Astar_IDAstar_RBFS
+
+Projeto acadêmico focado na comparação entre algoritmos de busca aplicados em cenários agrícolas e tomada de decisão.
+
+### Algoritmos utilizados:
+- A*
+- IDA*
+- RBFS
+
+### Objetivo:
+Comparar eficiência, custo computacional e desempenho dos algoritmos.
+
+---
+
+## 🏥 Sistema-Especialista---triagem-de-paciente
+
+Sistema especialista desenvolvido para simular triagem inteligente de pacientes.
+
+### Funcionalidades:
+- Análise de sintomas
+- Classificação de prioridade
+- Apoio à tomada de decisão
+- Simulação de atendimento hospitalar
+
+---
+
+## ✍️ Identificador_maiuscula_minuscula
+
+Projeto de visão computacional e Machine Learning para reconhecimento de caracteres manuscritos.
+
+### Funcionalidades:
+- Identificação de letras desenhadas pelo usuário
+- Reconhecimento de números e caracteres
+- Diferenciação entre letras maiúsculas e minúsculas
+- Predição utilizando modelos treinados com EMNIST
+- Interface gráfica interativa
+
+### Tecnologias:
+- OpenCV
+- NumPy
+- Scikit-Learn
+- Flask
+- Python
+
+---
+
+# 🛠️ Tecnologias Utilizadas
+
+Os projetos da organização utilizam principalmente:
 
 - 🐍 Python
 - 🌿 Git
 - 💻 GitHub
-- 🎮 Pygame (em alguns projetos)
+- 📦 OpenCV
+- 🔢 NumPy
+- 🧠 Scikit-Learn
+- 🌐 Flask
+- 🎮 Pygame
+- 📊 Matplotlib
 
 ---
 
-## 📚 Instituição
+# 📚 Instituição
 
-**Universidade Paulista – UNIP**
+## Universidade Paulista — UNIP
 
-Disciplina: **Inteligência Artificial**
-
----
-
-## 👥 Integrantes
-
-- Ariane Veras  
-- Sydhiney Silva  
-- Eduardo Theodoro  
-- Victor Donadi
----
-
-## 📌 Observação
-
-Este repositório tem fins **educacionais e acadêmicos**, sendo utilizado para aprendizado e prática de conceitos de Inteligência Artificial.
+**Disciplina:** Inteligência Artificial
 
 ---
 
-⭐ Caso esteja visualizando nossos projetos, sinta-se à vontade para explorar os repositórios!
+# 👥 Integrantes
+
+- Ariane Veras
+- Sydhiney Silva
+- Eduardo Theodoro
+
+---
+
+# 🚀 Objetivo Acadêmico
+
+Os projetos possuem finalidade:
+
+- 🎓 Educacional
+- 📖 Acadêmica
+- 🧪 Experimental
+
+Buscando aplicar na prática conceitos estudados em Inteligência Artificial, algoritmos de busca, visão computacional e desenvolvimento de sistemas inteligentes.
+
+---
+
+# ⭐ Explore os Repositórios
+
+Sinta-se à vontade para explorar os projetos, acompanhar a evolução dos trabalhos e utilizar os códigos como referência de estudo.
+
+---
+
+# 🔗 Organização GitHub
+
+https://github.com/Trabalhos-UNIP-IA
+
+---
+
+# 🧩 “Aprender IA é transformar lógica em soluções inteligentes.”
