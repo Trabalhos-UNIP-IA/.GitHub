@@ -123,6 +123,7 @@ Os projetos da organização utilizam principalmente:
 - Ariane Veras
 - Sydhiney Silva
 - Eduardo Theodoro
+- Victor Donadi
 
 ---
 
