@@ -1,62 +1,172 @@
-# 🤖 Trabalhos UNIP - Inteligência Artificial
+🤖 Trabalhos UNIP — Inteligência Artificial
+Bem-vindo à organização oficial dos projetos acadêmicos da disciplina de Inteligência Artificial da UNIP.
+Este espaço reúne implementações práticas, experimentos e aplicações desenvolvidas ao longo da graduação, utilizando conceitos de IA, visão computacional, algoritmos de busca e desenvolvimento em Python.
 
-Bem-vindo à organização dedicada aos **projetos e trabalhos acadêmicos da disciplina de Inteligência Artificial da UNIP**.
+🎯 Objetivo da Organização
+Centralizar, documentar e versionar projetos acadêmicos relacionados a:
 
-Aqui são armazenadas implementações práticas de algoritmos estudados em aula, utilizando principalmente **Python**, **Git** e **GitHub**.
 
----
+Inteligência Artificial
 
-## 🎯 Objetivo
 
-Centralizar e versionar projetos acadêmicos relacionados a:
+Machine Learning
 
-- Inteligência Artificial
-- Algoritmos de busca
-- Estruturas de dados
-- Computação aplicada
 
----
+Visão Computacional
 
-## 🧠 Algoritmos implementados
 
-Entre os projetos presentes nesta organização estão implementações de:
+Algoritmos de Busca
 
-- 🔎 **BFS (Breadth-First Search)**
-- 🌲 **DFS (Depth-First Search)**
-- 🎮 Simulações e jogos utilizando IA
-- 📊 Experimentos acadêmicos
 
----
+Estruturas de Dados
 
-## 🛠 Tecnologias utilizadas
 
-- 🐍 Python
-- 🌿 Git
-- 💻 GitHub
-- 🎮 Pygame (em alguns projetos)
+Automação e Sistemas Inteligentes
 
----
 
-## 📚 Instituição
+Computação Aplicada
 
-**Universidade Paulista – UNIP**
 
-Disciplina: **Inteligência Artificial**
 
----
+🧠 Projetos Desenvolvidos
+Entre os projetos presentes nesta organização estão:
 
-## 👥 Integrantes
 
-- Ariane Veras  
-- Sydhiney Silva  
-- Eduardo Theodoro  
+🔎 Implementação de algoritmos:
 
----
 
-## 📌 Observação
+BFS (Breadth-First Search)
 
-Este repositório tem fins **educacionais e acadêmicos**, sendo utilizado para aprendizado e prática de conceitos de Inteligência Artificial.
 
----
+DFS (Depth-First Search)
 
-⭐ Caso esteja visualizando nossos projetos, sinta-se à vontade para explorar os repositórios!
+
+
+
+🖍️ Reconhecimento de caracteres manuscritos
+
+
+Identificação de letras e números desenhados
+
+
+Diferenciação entre letras maiúsculas e minúsculas
+
+
+Utilização de modelos treinados com datasets como EMNIST
+
+
+
+
+🤖 Aplicações de Inteligência Artificial
+
+
+Classificação de imagens
+
+
+Processamento de dados
+
+
+Predições utilizando modelos treinados
+
+
+
+
+🎮 Simulações e jogos com IA
+
+
+📊 Experimentos acadêmicos e testes computacionais
+
+
+
+🛠️ Tecnologias Utilizadas
+As principais tecnologias utilizadas nos projetos incluem:
+
+
+🐍 Python
+
+
+🌿 Git
+
+
+💻 GitHub
+
+
+📦 OpenCV
+
+
+🧠 Scikit-Learn
+
+
+🔢 NumPy
+
+
+🎮 Pygame
+
+
+🌐 Flask
+
+
+📊 Matplotlib
+
+
+
+🚀 Organização dos Repositórios
+Cada repositório contém:
+
+
+Código-fonte do projeto
+
+
+Documentação
+
+
+Exemplos de uso
+
+
+Modelos treinados (quando aplicável)
+
+
+Experimentos e testes
+
+
+
+📚 Instituição
+Universidade Paulista — UNIP
+Disciplina: Inteligência Artificial
+
+👥 Integrantes
+
+
+Ariane Veras
+
+
+Sydhiney Silva
+
+
+Eduardo Theodoro
+
+
+
+📌 Finalidade
+Todos os projetos desta organização possuem finalidade:
+
+
+🎓 Educacional
+
+
+📖 Acadêmica
+
+
+🧪 Experimental
+
+
+O objetivo é aplicar na prática os conceitos estudados durante a disciplina, promovendo aprendizado em desenvolvimento, versionamento e Inteligência Artificial.
+
+⭐ Explore os Projetos
+Sinta-se à vontade para explorar os repositórios, acompanhar a evolução dos projetos e utilizar os códigos como referência de estudo.
+
+🔗 Organização GitHub
+Adicione aqui o link da organização:
+https://github.com/Trabalhos-UNIP-IA
+
+🧩 “Aprender IA é transformar lógica em soluções inteligentes.”
